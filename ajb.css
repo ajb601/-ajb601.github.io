@@ -2,3 +2,8 @@ body {background-color:wheat;}
 .head {
   color:peru
 }
+#friends {
+  width:75px;
+  float:right;
+  margin:10px;
+}
